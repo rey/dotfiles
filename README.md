@@ -1,1 +1,1 @@
-Check out [my dotfiles](https://github.com/rey/.dot)
+Check out [my dotfiles](https://github.com/rey/.dot).
